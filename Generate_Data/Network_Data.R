@@ -1,4 +1,5 @@
 library(readr)
+library(data.table)
 
 
 setwd("~/../Google Drive/Writing/Anomaly_Detection/code")
